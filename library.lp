@@ -1,0 +1,10 @@
+(librepcb_library f0214f02-f6e9-4a0d-8fa9-65e2278d90b9
+ (name "JST")
+ (description "Automotive and industrial connectors (unofficial)")
+ (keywords "")
+ (author "Tubbles")
+ (version "0.1")
+ (created 2023-07-18T20:21:43Z)
+ (deprecated false)
+ (url "")
+)
